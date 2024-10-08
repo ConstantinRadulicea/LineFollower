@@ -5,7 +5,7 @@
 #include "cubic.c"
 #include "MedianFilter.h"
 
-#define LINESENSORS_MEDIANFILTER_WINDOW 3
+#define LINESENSORS_MEDIANFILTER_WINDOW 1
 
 class LineSensors
 {
@@ -166,6 +166,7 @@ public:
 		delete this->LineSensorsRawValues;
 		delete this->medianFilters;
 	}
+
 	Point2D getMaxValue() {
 		return max_value;
 	}
