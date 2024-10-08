@@ -4,20 +4,12 @@
 #include <SteeringController.h>
 #include "GlobalVariables.h"
 
-
-
-
 const float PID_Kp = 1.0f;
-
-
 
 LineSensors lineSensors(TOTAL_LINE_SENSORS);
 float sensorsReadings[TOTAL_LINE_SENSORS];
 Point2D linePosition;
 SteeringController steeringController(1.0f, 0.0f, -1.0f);
-
-
-
 
 
 void setup()
