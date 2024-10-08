@@ -31,22 +31,22 @@ static int linesensors_pins[TOTAL_LINE_SENSORS] = {
   };
 
   float BackgroundColorOnlyCalibrationAvarages[TOTAL_LINE_SENSORS] = {
-    286.0f,
-    194.0f,
-    267.0f,
-    368.0f,
-    332.0f,
+    0.0f,
+    0.0f,
+    0.0f,
+    0.0f,
+    0.0f,
     0.0f,
     0.0f,
     0.0f
   };
 
 float LineColorOlyCalibrationAvarages[TOTAL_LINE_SENSORS] = {
-    3211.0f,
-    3013.0f,
-    3040.0f,
-    3265.0f,
-    3358.0f,
+    0.0f,
+    0.0f,
+    0.0f,
+    0.0f,
+    0.0f,
     0.0f,
     0.0f,
     0.0f
