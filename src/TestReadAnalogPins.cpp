@@ -17,5 +17,5 @@ void loop(){
       Serial.print('\t');
   }
   Serial.print('\n');
-  delay(250);
+  delay(10);
 }

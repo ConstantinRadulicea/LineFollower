@@ -38,7 +38,6 @@ float maxSpeed = 0.25f;
 float speed = maxSpeed;
 float right_track_speed_percentage = 1.0f;
 float left_track_speed_percentage = 1.0f;
-float PID_out_right, PID_out_left;
 float steering_correction_pid_out;
 Point2D middleLineMax, middleLineMin;
 float blackLinePositionX, blackLinePositionY;
@@ -94,7 +93,7 @@ void loop()
   left_wheel = 1 - steering_correction_pid_out; =  1 -(1) = 0
   right_wheel = 1 + steering_correction_pid_out; = 1 +(1) = 2
   */
- 
+
   steering_correction_pid_out = steering_pid.calculate(0, blackLinePositionX, 1.0);
 
   left_track_speed_percentage = 1 - steering_correction_pid_out;
