@@ -1,0 +1,121 @@
+﻿  cubic.c
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(90,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(91,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(101,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(103,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(104,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(50,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(70,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(74,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(82,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(117,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  geometry2D.cpp
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.h(51,16): warning C4091: 'typedef ': ignored on left of 'ParabolaABC' when no variable is declared
+  (compiling source file 'geometry2D.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(517,11): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(525,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(529,11): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(537,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1043,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1066,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1067,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1108,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1109,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1115,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.cpp(1117,18): warning C4305: '+=': truncation from 'double' to 'float'
+  main.cpp
+C:\Programming\LineFollower\UnitTest\LineSensor\geometry2D.h(51,16): warning C4091: 'typedef ': ignored on left of 'ParabolaABC' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(50,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(70,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(74,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(82,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(90,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(91,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(101,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(103,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(104,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\cubic.c(117,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(66,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(74,28): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(77,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(87,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(104,28): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(107,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\MedianFilter.h(117,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\LineSensors.h(84,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\LineSensors.h(114,35): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(55,8): warning C4101: 'temp_float': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(138,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(180,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(196,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(213,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(204,8): warning C4101: 'angle_bw_x_axis_and_start_end_point_line': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(206,8): warning C4101: 'side_ab': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\PurePursuitGeometry.h(258,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\CalculateCarSpeed.h(16,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\CalculateCarSpeed.h(23,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Programming\LineFollower\UnitTest\LineSensor\main.cpp(80,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Programming\LineFollower\UnitTest\LineSensor\main.cpp(84,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  LineSensor.vcxproj -> C:\Programming\LineFollower\UnitTest\LineSensor\x64\Debug\LineSensor.exe
