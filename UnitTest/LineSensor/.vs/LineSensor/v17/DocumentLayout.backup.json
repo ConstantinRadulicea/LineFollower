@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{83119FA2-91F3-4BE3-86BA-C6BD97241343}|LineSensor.vcxproj|C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\PurePursuitGeometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{83119FA2-91F3-4BE3-86BA-C6BD97241343}|LineSensor.vcxproj|solutionrelative:PurePursuitGeometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83119FA2-91F3-4BE3-86BA-C6BD97241343}|LineSensor.vcxproj|C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\CalculateCarSpeed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83119FA2-91F3-4BE3-86BA-C6BD97241343}|LineSensor.vcxproj|solutionrelative:CalculateCarSpeed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 312,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateCarSpeed.h",
+              "DocumentMoniker": "C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\CalculateCarSpeed.h",
+              "RelativeDocumentMoniker": "CalculateCarSpeed.h",
+              "ToolTip": "C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\CalculateCarSpeed.h",
+              "RelativeToolTip": "CalculateCarSpeed.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T13:28:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PurePursuitGeometry.h",
               "DocumentMoniker": "C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\PurePursuitGeometry.h",
               "RelativeDocumentMoniker": "PurePursuitGeometry.h",
               "ToolTip": "C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\PurePursuitGeometry.h",
               "RelativeToolTip": "PurePursuitGeometry.h",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwDAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-27T18:02:30.092Z",
               "EditorCaption": ""
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Programming\\LineFollower\\UnitTest\\LineSensor\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAkwI8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAwwKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T08:26:52.314Z",
               "EditorCaption": ""

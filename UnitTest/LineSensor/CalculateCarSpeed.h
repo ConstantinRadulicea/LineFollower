@@ -63,5 +63,15 @@ static float CalculateCarSpeed(float _min_speed, float _max_speed, float _wheel_
 	return new_car_speed;
 }
 
+static float CalculateCarSpeed_singleAxleVehicle(float _min_speed, float _max_speed, float turn_radius, float _friction_coefficient, float _downward_acceleration) {
+	float new_car_speed;
+	new_car_speed = carTurnMaxSpeed(turn_radius, _friction_coefficient, _downward_acceleration);
+
+	new_car_speed = MIN(_max_speed, new_car_speed);
+	new_car_speed = MAX(_min_speed, new_car_speed);
+
+	return new_car_speed;
+}
+
 
 #endif // !__CALCULATECARSPEED_H__
